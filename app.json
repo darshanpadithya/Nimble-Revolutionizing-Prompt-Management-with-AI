@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Nimble",
+    "slug": "Nimble",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/lo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-screen.png",
+      "resizeMode": "contain",
+      "imageResizeMode": "contain",
+      "iconResizeMode": "contain",
+      "backgroundColor": "#fff5e7"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/lo.png",
+        "backgroundColor": "#fff5e7"
+      },
+      "package": "com.dpa2003.Nimble"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e0e2d2c4-9d5b-41e2-85fd-5342df8415ae"
+      }
+    }
+  }
+}
